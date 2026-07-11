@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+git init
+git add .
+git commit -m "Add project source code"
+git remote add origin https://github.com/zqh12366/OpenNote-BookLM.git
+git push -u origin main
