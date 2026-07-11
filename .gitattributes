@@ -1,3 +1,9 @@
+# 如果是前端项目 (React/Vue/Svelte 等)
+npm create vite@latest OpenNote-BookLM -- --template react
+# 或
+npx create-react-app OpenNote-BookLM
+
+cd OpenNote-BookLM
 git init
 git add .
 git commit -m "Add project source code"
